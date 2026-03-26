@@ -24,15 +24,12 @@ Full Stack Developer with hands-on experience in building and deploying web appl
 #### 🛒 E-commerce Web Application
 - Full-stack application with authentication, cart, and order system  
 - Built using Django + REST APIs  
-- 🔗 Live: your-link  
-- 🔗 GitHub: your-link  
 
 ---
 
 #### 📊 Admin Dashboard / CMS
 - Role-based dashboard with CRUD operations  
-- API-driven backend  
-- 🔗 GitHub: your-link  
+- API-driven backend    
 
 ---
 
@@ -40,16 +37,9 @@ Full Stack Developer with hands-on experience in building and deploying web appl
 - Worked on backend & frontend improvements  
 - Fixed bugs and improved performance  
 - Deployed on cPanel (production environment)  
-- 🔗 Live: your-link  
 
----
-
-### 🌍 Currently
-- Learning German (A1 level)  
-- Open to opportunities in Germany  
 
 ---
 
 ### 📫 Contact
-- Email: your@email.com  
-- LinkedIn: your-link  
+- Email: Psimi007@gmail.com 

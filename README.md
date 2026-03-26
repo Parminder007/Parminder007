@@ -1,16 +1,55 @@
-## Hi there 👋
+## 👋 Hi, I'm Parminder Singh
 
-<!--
-**Parminder007/Parminder007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with hands-on experience in building and deploying web applications using Django, JavaScript, and REST APIs.
 
-Here are some ideas to get you started:
+### 🚀 What I do
+- Build full-stack web applications
+- Develop REST APIs using Django
+- Deploy applications on live servers (Linux, Nginx, cPanel)
+- Improve and maintain existing production systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- Python, JavaScript, HTML, CSS  
+- Django, Django REST Framework  
+- PostgreSQL, SQLite  
+- Git, GitHub  
+- Linux, Nginx, Gunicorn  
+
+---
+
+### 🌐 Projects
+
+#### 🛒 E-commerce Web Application
+- Full-stack application with authentication, cart, and order system  
+- Built using Django + REST APIs  
+- 🔗 Live: your-link  
+- 🔗 GitHub: your-link  
+
+---
+
+#### 📊 Admin Dashboard / CMS
+- Role-based dashboard with CRUD operations  
+- API-driven backend  
+- 🔗 GitHub: your-link  
+
+---
+
+#### 🔧 Client Web Application (Confidential)
+- Worked on backend & frontend improvements  
+- Fixed bugs and improved performance  
+- Deployed on cPanel (production environment)  
+- 🔗 Live: your-link  
+
+---
+
+### 🌍 Currently
+- Learning German (A1 level)  
+- Open to opportunities in Germany  
+
+---
+
+### 📫 Contact
+- Email: your@email.com  
+- LinkedIn: your-link  
